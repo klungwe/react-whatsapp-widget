@@ -1,5 +1,5 @@
 .root {
-  width: 300px;
+  width: max-content;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 12px 24px 0px;
   flex-direction: column;
   border-radius: 15px;
