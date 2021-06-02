@@ -40,5 +40,7 @@
   .root {
     right: 0;
     width: 300px;
+    margin: auto;
+    bottom: inherit;
   }
 }
